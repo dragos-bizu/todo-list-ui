@@ -1,0 +1,13 @@
+.item-list {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  margin: auto;
+  margin-top: 25px;
+}
+
+h3.list-title {
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
